@@ -1,5 +1,5 @@
 
-# CHRISTINA SOTIRIOU (it21780) HashLinearDictionary
+# Georgioy Antonios (it21615) HashLinearDictionary
 
 Java Program to implement Hashing Table with Open Addressing (Linear Probing) & 
 Universal Hashing using the Matrix Method
