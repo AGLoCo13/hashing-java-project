@@ -1,7 +1,7 @@
 // **********************************************************************
 // ***  HAROKOPIO UNIVERSITY - INFORMATICS & TELEMATICS DPT           ***
 // ***  DATA STRUCTURES - ASSIGNMENT 2022                             ***
-// ***  CHRISTINA SOTIRIOU (it21780)                                  ***
+// ***  GEORGIOY ANTONIOS - IT21615                                   ***
 // ***  11/01/2023                                                    ***
 // **********************************************************************
 
